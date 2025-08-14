@@ -21,6 +21,9 @@ const nextConfig: NextConfig = {
       {
         hostname: 'www.notion.so',
       },
+      {
+        hostname: 'www.books.weniv.co.kr',
+      },
     ],
   },
   pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'mdx', 'md'],
